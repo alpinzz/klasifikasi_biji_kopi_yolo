@@ -4,4 +4,3 @@ runs/
 *.pt
 dataset/
 yolov8n.pt
-Readme.MD
