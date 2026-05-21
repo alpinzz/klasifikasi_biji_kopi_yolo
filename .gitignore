@@ -1,0 +1,7 @@
+env/
+runs/
+*.pyc
+*.pt
+dataset/
+yolov8n.pt
+Readme.MD
